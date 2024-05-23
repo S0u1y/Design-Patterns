@@ -10,6 +10,7 @@ Not all patterns are currently included in my roadmap. I have mainly picked thos
 
 - [ ] Creational patterns
   - [ ] Factory
+  - [x] Abstract Factory
   - [ ] Builder
   - [ ] Prototype
   - [ ] Singleton
