@@ -25,3 +25,6 @@ Not all patterns are currently included in my roadmap. I have mainly picked thos
   - [ ] Template
   - [ ] State
   - [ ] Visitor
+
+
+### Also, this project will be documented in videos as well! [Here](https://www.youtube.com/playlist?list=PLxBgJiMmXqCaD6dyPi0WS0fAgll8K-qDz) is the list.
