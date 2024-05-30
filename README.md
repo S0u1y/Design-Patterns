@@ -9,7 +9,8 @@ The main motivation is for myself to learn, but I hope that if anyone else stumb
 Not all patterns are currently included in my roadmap. I have mainly picked those, that I've already used or those that are more popular. That said more might be added at a later date.
 
 - [ ] Creational patterns
-  - [ ] Factory
+  - [ ] Factory (basic)
+  - [ ] Factory Method
   - [x] Abstract Factory
   - [ ] Builder
   - [ ] Prototype
